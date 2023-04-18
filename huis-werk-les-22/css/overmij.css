@@ -1,0 +1,34 @@
+#collapseOne{
+    background-color: #0ff;
+    color: black;
+}
+#collapseTwo{
+    background-color: #0ff;
+    color: black;
+}
+#collapseThree{
+    background-color: #0ff;
+    color: black;
+}
+#collapseFour{
+    background-color: #0ff;
+    color: black;
+}
+#opening{
+    height:10em;
+}
+thead{
+    border:2px solid black;
+}
+th{
+    border:1px solid black;
+}
+tbody{
+    border:3px solid black;
+}
+td{
+    border:1px solid purple;
+}
+#foot{
+    height: 200px;
+}
